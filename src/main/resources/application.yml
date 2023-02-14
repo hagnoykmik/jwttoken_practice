@@ -1,0 +1,5 @@
+# JWT
+jwt:
+  header: Authorization
+  secret: aGV2dG9uLXB5cm9uLXB5cm9uLWhldi1weXItZ29vZC1kZXZsb3Blci1oZXZ0b24tcHlyb24tcHlyb24taGV2LXB5ci1nb29kLWRldmxvcGVyLQ==
+  token-validity-in-seconds: 86400
